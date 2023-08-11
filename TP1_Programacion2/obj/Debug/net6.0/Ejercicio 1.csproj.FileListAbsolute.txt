@@ -1,0 +1,45 @@
+C:\Users\Juan-Zoloaga\source\repos\TP1_Programacion2\TP1_Programacion2\bin\Debug\net6.0\Ejercicio 1.exe
+C:\Users\Juan-Zoloaga\source\repos\TP1_Programacion2\TP1_Programacion2\bin\Debug\net6.0\Ejercicio 1.deps.json
+C:\Users\Juan-Zoloaga\source\repos\TP1_Programacion2\TP1_Programacion2\bin\Debug\net6.0\Ejercicio 1.runtimeconfig.json
+C:\Users\Juan-Zoloaga\source\repos\TP1_Programacion2\TP1_Programacion2\bin\Debug\net6.0\Ejercicio 1.dll
+C:\Users\Juan-Zoloaga\source\repos\TP1_Programacion2\TP1_Programacion2\bin\Debug\net6.0\Ejercicio 1.pdb
+C:\Users\Juan-Zoloaga\source\repos\TP1_Programacion2\TP1_Programacion2\obj\Debug\net6.0\Ejercicio 1.csproj.AssemblyReference.cache
+C:\Users\Juan-Zoloaga\source\repos\TP1_Programacion2\TP1_Programacion2\obj\Debug\net6.0\Ejercicio 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan-Zoloaga\source\repos\TP1_Programacion2\TP1_Programacion2\obj\Debug\net6.0\Ejercicio 1.AssemblyInfoInputs.cache
+C:\Users\Juan-Zoloaga\source\repos\TP1_Programacion2\TP1_Programacion2\obj\Debug\net6.0\Ejercicio 1.AssemblyInfo.cs
+C:\Users\Juan-Zoloaga\source\repos\TP1_Programacion2\TP1_Programacion2\obj\Debug\net6.0\Ejercicio 1.csproj.CoreCompileInputs.cache
+C:\Users\Juan-Zoloaga\source\repos\TP1_Programacion2\TP1_Programacion2\obj\Debug\net6.0\Ejercicio 1.dll
+C:\Users\Juan-Zoloaga\source\repos\TP1_Programacion2\TP1_Programacion2\obj\Debug\net6.0\refint\Ejercicio 1.dll
+C:\Users\Juan-Zoloaga\source\repos\TP1_Programacion2\TP1_Programacion2\obj\Debug\net6.0\Ejercicio 1.pdb
+C:\Users\Juan-Zoloaga\source\repos\TP1_Programacion2\TP1_Programacion2\obj\Debug\net6.0\Ejercicio 1.genruntimeconfig.cache
+C:\Users\Juan-Zoloaga\source\repos\TP1_Programacion2\TP1_Programacion2\obj\Debug\net6.0\ref\Ejercicio 1.dll
+G:\Otros ordenadores\PcGamer\Documents\UTN\2°Cuatrimestre\Lab 2\TP1_Programacion2\TP1_Programacion2\bin\Debug\net6.0\Ejercicio 1.exe
+G:\Otros ordenadores\PcGamer\Documents\UTN\2°Cuatrimestre\Lab 2\TP1_Programacion2\TP1_Programacion2\bin\Debug\net6.0\Ejercicio 1.deps.json
+G:\Otros ordenadores\PcGamer\Documents\UTN\2°Cuatrimestre\Lab 2\TP1_Programacion2\TP1_Programacion2\bin\Debug\net6.0\Ejercicio 1.runtimeconfig.json
+G:\Otros ordenadores\PcGamer\Documents\UTN\2°Cuatrimestre\Lab 2\TP1_Programacion2\TP1_Programacion2\bin\Debug\net6.0\Ejercicio 1.dll
+G:\Otros ordenadores\PcGamer\Documents\UTN\2°Cuatrimestre\Lab 2\TP1_Programacion2\TP1_Programacion2\bin\Debug\net6.0\Ejercicio 1.pdb
+G:\Otros ordenadores\PcGamer\Documents\UTN\2°Cuatrimestre\Lab 2\TP1_Programacion2\TP1_Programacion2\obj\Debug\net6.0\Ejercicio 1.csproj.AssemblyReference.cache
+G:\Otros ordenadores\PcGamer\Documents\UTN\2°Cuatrimestre\Lab 2\TP1_Programacion2\TP1_Programacion2\obj\Debug\net6.0\Ejercicio 1.GeneratedMSBuildEditorConfig.editorconfig
+G:\Otros ordenadores\PcGamer\Documents\UTN\2°Cuatrimestre\Lab 2\TP1_Programacion2\TP1_Programacion2\obj\Debug\net6.0\Ejercicio 1.AssemblyInfoInputs.cache
+G:\Otros ordenadores\PcGamer\Documents\UTN\2°Cuatrimestre\Lab 2\TP1_Programacion2\TP1_Programacion2\obj\Debug\net6.0\Ejercicio 1.AssemblyInfo.cs
+G:\Otros ordenadores\PcGamer\Documents\UTN\2°Cuatrimestre\Lab 2\TP1_Programacion2\TP1_Programacion2\obj\Debug\net6.0\Ejercicio 1.csproj.CoreCompileInputs.cache
+G:\Otros ordenadores\PcGamer\Documents\UTN\2°Cuatrimestre\Lab 2\TP1_Programacion2\TP1_Programacion2\obj\Debug\net6.0\Ejercicio 1.dll
+G:\Otros ordenadores\PcGamer\Documents\UTN\2°Cuatrimestre\Lab 2\TP1_Programacion2\TP1_Programacion2\obj\Debug\net6.0\refint\Ejercicio 1.dll
+G:\Otros ordenadores\PcGamer\Documents\UTN\2°Cuatrimestre\Lab 2\TP1_Programacion2\TP1_Programacion2\obj\Debug\net6.0\Ejercicio 1.pdb
+G:\Otros ordenadores\PcGamer\Documents\UTN\2°Cuatrimestre\Lab 2\TP1_Programacion2\TP1_Programacion2\obj\Debug\net6.0\Ejercicio 1.genruntimeconfig.cache
+G:\Otros ordenadores\PcGamer\Documents\UTN\2°Cuatrimestre\Lab 2\TP1_Programacion2\TP1_Programacion2\obj\Debug\net6.0\ref\Ejercicio 1.dll
+C:\Users\Juan-Zoloaga\Documents\UTN\2°Cuatrimestre\Lab 2\TP1_Programacion2\TP1_Programacion2\bin\Debug\net6.0\Ejercicio 1.exe
+C:\Users\Juan-Zoloaga\Documents\UTN\2°Cuatrimestre\Lab 2\TP1_Programacion2\TP1_Programacion2\bin\Debug\net6.0\Ejercicio 1.deps.json
+C:\Users\Juan-Zoloaga\Documents\UTN\2°Cuatrimestre\Lab 2\TP1_Programacion2\TP1_Programacion2\bin\Debug\net6.0\Ejercicio 1.runtimeconfig.json
+C:\Users\Juan-Zoloaga\Documents\UTN\2°Cuatrimestre\Lab 2\TP1_Programacion2\TP1_Programacion2\bin\Debug\net6.0\Ejercicio 1.dll
+C:\Users\Juan-Zoloaga\Documents\UTN\2°Cuatrimestre\Lab 2\TP1_Programacion2\TP1_Programacion2\bin\Debug\net6.0\Ejercicio 1.pdb
+C:\Users\Juan-Zoloaga\Documents\UTN\2°Cuatrimestre\Lab 2\TP1_Programacion2\TP1_Programacion2\obj\Debug\net6.0\Ejercicio 1.csproj.AssemblyReference.cache
+C:\Users\Juan-Zoloaga\Documents\UTN\2°Cuatrimestre\Lab 2\TP1_Programacion2\TP1_Programacion2\obj\Debug\net6.0\Ejercicio 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan-Zoloaga\Documents\UTN\2°Cuatrimestre\Lab 2\TP1_Programacion2\TP1_Programacion2\obj\Debug\net6.0\Ejercicio 1.AssemblyInfoInputs.cache
+C:\Users\Juan-Zoloaga\Documents\UTN\2°Cuatrimestre\Lab 2\TP1_Programacion2\TP1_Programacion2\obj\Debug\net6.0\Ejercicio 1.AssemblyInfo.cs
+C:\Users\Juan-Zoloaga\Documents\UTN\2°Cuatrimestre\Lab 2\TP1_Programacion2\TP1_Programacion2\obj\Debug\net6.0\Ejercicio 1.csproj.CoreCompileInputs.cache
+C:\Users\Juan-Zoloaga\Documents\UTN\2°Cuatrimestre\Lab 2\TP1_Programacion2\TP1_Programacion2\obj\Debug\net6.0\Ejercicio 1.dll
+C:\Users\Juan-Zoloaga\Documents\UTN\2°Cuatrimestre\Lab 2\TP1_Programacion2\TP1_Programacion2\obj\Debug\net6.0\refint\Ejercicio 1.dll
+C:\Users\Juan-Zoloaga\Documents\UTN\2°Cuatrimestre\Lab 2\TP1_Programacion2\TP1_Programacion2\obj\Debug\net6.0\Ejercicio 1.pdb
+C:\Users\Juan-Zoloaga\Documents\UTN\2°Cuatrimestre\Lab 2\TP1_Programacion2\TP1_Programacion2\obj\Debug\net6.0\Ejercicio 1.genruntimeconfig.cache
+C:\Users\Juan-Zoloaga\Documents\UTN\2°Cuatrimestre\Lab 2\TP1_Programacion2\TP1_Programacion2\obj\Debug\net6.0\ref\Ejercicio 1.dll
